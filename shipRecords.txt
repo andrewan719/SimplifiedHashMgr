@@ -1,0 +1,6 @@
+ 1009 1 Royal_Queen     2015 160
+ 1010   2  Carnival     2016  1600
+ 1019  1  Ocean_King    2013  110
+ 1029 2 Royal_Prince    2012 2000
+ 1039 2 Royal_Princess  2010 2100
+ 1014 2 Royal_Caribbean 2016 1600
